@@ -91,5 +91,5 @@ https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
 #EXTINF:0 group-title="MOVIE" ,John Wick
 http://server1.ftpbd.net/FTP-1/English%20Movies/2019/John%20Wick%20Chapter%203%20-%20Parabellum%20%282019%29%20BluRay%201080p/John.Wick.Chapter.3.-.Parabellum.2019.1080p.BluRay.x264-%5BYTS.LT%5D.mp4
-#EXTINF:0 group-title="MOVIE" ,Dil Bechara
-http://server2.ftpbd.net/FTP-2/Hindi%20Movies/2020/Dil%20Bechara%20%282020%29%201080p/Dil%20Bechara%202020%20WebRip%201080p%20Hindi%20DD%205.1%20x264%20ESub%20-%20mkvCinemas%20%5BTelly%5D.mkv            
+#EXTINF:0 group-title="MOVIE" ,Spider Man Far From Home
+http://server1.ftpbd.net/FTP-1/English%20Movies/Dual-Audio/Spider-Man%20Far%20From%20Home%20%282019%29%20720p%20%20%5BDual%20Audio%5D/Spider-Man%20Far%20From%20Home%20%282019%29%20720p%20BluRay%20x264%20AC3%20ESub%20Dual%20Audio%20%5BHindi%20DD%205.1CH%20%2B%20English%5D%201.30GB.mkv
