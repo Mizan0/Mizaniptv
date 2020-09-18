@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 group-title="KS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" ,Star Jalsha HD
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+http://103.205.133.14/hls/chsj.m3u8
 #EXTINF:0 group-title="KS" tvg-logo="https://i.imgur.com/oTIxOpZ.png" ,Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:0 group-title="KS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" ,Jalsha Movies
@@ -107,6 +107,7 @@ http://server2.ftpbd.net/FTP-2/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server2.ftpbd.net/FTP-2/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Password%20%282019%29%20Bengali%20HDRip/Password%202019%20Bengali%20Movie%20Dev%20%2CRumkini%20720p%20HDRip%20700MB.mp4
 #EXTINF:0 group-title="Movie" tvg-logo="https://i.imgur.com/gUu2nMa.png" ,HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
+
 
 
 
